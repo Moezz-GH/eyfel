@@ -1,0 +1,157 @@
+<template>
+    <div>
+
+
+
+
+
+
+
+        <nav class="bg-white sticky top-0 border-gray-200 dark:bg-gray-900 z-20 drop-shadow-md">
+  <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+  <a href="https://flowbite.com/" class="flex items-center space-x-3 rtl:space-x-reverse">
+      <img src="../../assets/EYFEL_LOGO_page-0001-removebg-preview.png" class="h-20" alt="Flowbite Logo" />
+   
+  </a>
+  <div class="flex items-center md:order-2 space-x-1 md:space-x-0 rtl:space-x-reverse">
+
+    <button data-collapse-toggle="navbar-language" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-language" aria-expanded="false">
+        <span class="sr-only">Open main menu</span>
+        <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
+        </svg>
+    </button>
+      
+  </div>
+  <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-language">
+    <ul class="flex flex-col font-medium p-4 md:p-0 mt-4 border border-gray-100 rounded-lg  md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0  dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+      <li>
+        <a href="#" class="block py-2 px-3 text-gray-900 bg-white rounded md:bg-transparent hover:text-eyfel md:p-0 md:dark:text-blue-500" aria-current="page">Home</a>
+      </li>
+      <li>
+        <a href="#" class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-eyfel dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">About</a>
+      </li>
+      <li>
+        <a href="#" class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-eyfel dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Services</a>
+      </li>
+      <li>
+        <a href="#" class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-eyfel dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Pricing</a>
+      </li>
+      <li>
+        <a href="#" class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-eyfel dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Contact</a>
+      </li>
+    </ul>
+  </div>
+  </div>
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Slider -->
+
+<!-- <h1 class="font-bold text-3xl mx-12" >Products </h1>
+<div data-hs-carousel='{
+  "loadingClasses": "opacity-0",
+  "dotsItemClasses": "hs-carousel-active:bg-blue-700 hs-carousel-active:border-blue-700 size-3 border border-gray-400 rounded-full cursor-pointer dark:border-neutral-600 dark:hs-carousel-active:bg-blue-500 dark:hs-carousel-active:border-blue-500",
+  "slidesQty": {
+    "xs": 1,
+    "lg": 3
+  },
+  "isDraggable": true
+}' class="relative px-4 lg:px-6 lg:px-8 py-10">
+  <div class="hs-carousel w-full overflow-hidden bg-white rounded-lg ">
+    <div class="relative min-h-72 -mx-1">
+      <div class="hs-carousel-body absolute top-0 bottom-0 start-0 flex flex-nowrap opacity-0 cursor-grab transition-transform duration-700 hs-carousel-dragging:transition-none hs-carousel-dragging:cursor-grabbing">
+        <div class="hs-carousel-slide px-1">
+          <div class="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
+  <img class="w-full h-auto rounded-t-xl" src="../../assets/products/1.png" alt="Card Image">
+  <div class="p-4 md:p-5">
+    <h3 class="text-lg font-bold text-gray-800 dark:text-white">
+      Card title
+    </h3>
+    <p class="mt-1 text-gray-500 dark:text-neutral-400">
+      Some quick example text to build on the card title and make up the bulk of the card's content.
+    </p>
+    <a class="mt-2 py-2 px-3 inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 focus:outline-none focus:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none" href="#">
+      Go somewhere
+    </a>
+  </div>
+</div>
+            <img src="../../assets/products/1.png">
+          
+        </div>
+        <div class="hs-carousel-slide px-1">
+        
+            <img src="../../assets/products/1.png" >
+       
+        </div>
+        <div class="hs-carousel-slide px-1">
+          
+            <img src="../../assets/products/1.png" >
+         
+        </div>
+        <div class="hs-carousel-slide px-1">
+       
+            <img src="../../assets/products/1.png" >
+       
+        </div>
+        <div class="hs-carousel-slide px-1">
+     
+            <img src="../../assets/products/1.png" >
+        
+        </div>
+        <div class="hs-carousel-slide px-1">
+         
+            <img src="../../assets/products/1.png" >
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <button type="button" class="hs-carousel-prev hs-carousel-disabled:opacity-50 hs-carousel-disabled:pointer-events-none absolute inset-y-0 start-0 inline-flex justify-center items-center w-[46px] h-full text-gray-800   rounded-s-lg dark:text-white dark:hover:bg-white/10 dark:focus:bg-white/10">
+    <span class="text-2xl" aria-hidden="true">
+      <svg class="shrink-0 size-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m15 18-6-6 6-6"></path>
+      </svg>
+    </span>
+    <span class="sr-only">Previous</span>
+  </button>
+  <button type="button" class="hs-carousel-next hs-carousel-disabled:opacity-50 hs-carousel-disabled:pointer-events-none absolute inset-y-0 end-0 inline-flex justify-center items-center w-[46px] h-full text-gray-800  dark:text-white dark:hover:bg-white/10 dark:focus:bg-white/10">
+    <span class="sr-only">Next</span>
+    <span class="text-2xl" aria-hidden="true">
+      <svg class="shrink-0 size-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m9 18 6-6-6-6"></path>
+      </svg>
+    </span>
+  </button>
+
+  <div class="hs-carousel-pagination flex justify-center absolute bottom-3 start-0 end-0 space-x-2"></div>
+</div> -->
+<!-- End Slider -->
+
+
+
+
+
+    </div>
+</template>
+
+<script>
+
+
+</script>
