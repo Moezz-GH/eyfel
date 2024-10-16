@@ -17,7 +17,10 @@ export default {
 <template>
     <div>
         <AboutSection/>
-        <AboutUsTimeLine/>
+        <AboutUsTimeLine titel1="Build Better Products" content1="Introducing a new way for your brand to reach the creative community. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea, recusandae ab eum, aut expedita autem placeat voluptatum, animi id ipsam distinctio a? Qui tempora sint deserunt. Quidem molestiae neque voluptatum!"
+         titel2="Build Better Products" content2="Introducing a new way for your brand to reach the creative community. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea, recusandae ab eum, aut expedita autem placeat voluptatum, animi id ipsam distinctio a? Qui tempora sint deserunt. Quidem molestiae neque voluptatum!"
+         />
+       
       
     </div>
   </template>
