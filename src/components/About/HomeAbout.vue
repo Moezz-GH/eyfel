@@ -20,7 +20,7 @@
     <!-- End Col -->
 
     <div class="lg:col-span-4 mt-10 lg:mt-0">
-      <img class="w-full rounded-xl" src="../../assets/products/49d93de89OpP54ssyuJMG6rJFludbz9msL3IWFYm-w1400-q75.jpg" alt="Hero Image">
+      <img class="w-full rounded-xl" src="../../assets/erfume.png" alt="Hero Image">
     </div>
     <!-- End Col -->
   </div>

@@ -12,13 +12,7 @@
         <div class="hs-carousel-slide">
           <div class="h-[30rem] md:h-[calc(100vh-106px)]  flex flex-col bg-my-bg-image bg-cover bg-center bg-no-repeat">
             <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-              <span class="block text-white">Nike React</span>
-              <span class="block text-white text-xl md:text-3xl">Rewriting sport's playbook for billions of athletes</span>
-              <div class="mt-5">
-                <a class="py-2 px-3 inline-flex items-center gap-x-2 text-sm font-medium rounded-xl bg-white border border-transparent text-black hover:bg-gray-100 focus:outline-none focus:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none" href="#">
-                  Read Case Studies
-                </a>
-              </div>
+             
             </div>
           </div>
         </div>
@@ -28,13 +22,7 @@
         <div class="hs-carousel-slide">
           <div class="h-[30rem] md:h-[calc(100vh-106px)]  flex flex-col bg-my-bg-image1 bg-cover bg-center bg-no-repeat">
             <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-              <span class="block text-white">CoolApps</span>
-              <span class="block text-white text-xl md:text-3xl">From mobile apps to gaming consoles</span>
-              <div class="mt-5">
-                <a class="py-2 px-3 inline-flex items-center gap-x-2 text-sm font-medium rounded-xl bg-white border border-transparent text-black hover:bg-gray-100 focus:outline-none focus:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none" href="#">
-                  Read Case Studies
-                </a>
-              </div>
+            
             </div>
           </div>
         </div>
@@ -44,13 +32,17 @@
         <div class="hs-carousel-slide">
           <div class="h-[30rem] md:h-[calc(100vh-106px)]  flex flex-col bg-my-bg-image2 bg-cover bg-center bg-no-repeat">
             <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-              <span class="block text-white">Grumpy</span>
-              <span class="block text-white text-xl md:text-3xl">Bringing Art to everything</span>
-              <div class="mt-5">
-                <a class="py-2 px-3 inline-flex items-center gap-x-2 text-sm font-medium rounded-xl bg-white border border-transparent text-black hover:bg-gray-100 focus:outline-none focus:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none" href="#">
-                  Read Case Studies
-                </a>
-              </div>
+            
+            </div>
+          </div>
+        </div>
+        <!-- End Item -->
+
+         <!-- Item -->
+         <div class="hs-carousel-slide">
+          <div class="h-[30rem] md:h-[calc(100vh-106px)]  flex flex-col bg-my-bg-image25 bg-cover bg-center bg-no-repeat">
+            <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
+            
             </div>
           </div>
         </div>
