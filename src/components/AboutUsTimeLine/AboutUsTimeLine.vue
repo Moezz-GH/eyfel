@@ -10,7 +10,7 @@
     
 
     <div class="lg:col-span-3 mt-10 lg:mt-0">
-      <img class="w-full rounded-xl" src="https://images.unsplash.com/photo-1665686376173-ada7a0031a85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=900&h=700&q=80" alt="Hero Image">
+      <img class="w-full rounded-xl" src="../../assets/products/erfume.png" alt="Hero Image">
     </div>
    
   </div>
@@ -21,7 +21,7 @@
   <!-- Grid -->
   <div class="grid lg:grid-cols-7 lg:gap-x-12 xl:gap-x-12 lg:items-center">
     <div class="lg:col-span-3 mt-10 lg:mt-0">
-      <img class="w-full rounded-xl" src="https://images.unsplash.com/photo-1665686376173-ada7a0031a85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=900&h=700&q=80" alt="Hero Image">
+      <img class="w-full rounded-xl" src="../../assets/products/download.jpg" alt="Hero Image">
     </div>
 
     <div class="lg:col-span-4">
