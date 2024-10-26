@@ -42,7 +42,7 @@
 </div> -->
 
 
-<div class="bg-white">
+
   <div class="mx-auto max-w-2xl px-4 py-8 sm:px-6 sm:py-8 lg:max-w-7xl lg:px-8">
     <div class="flex items-center pb-6 justify-center flex-wrap">
     <button type="button" class="text-white hover:text-white border border-eyfel bg-eyfel hover:bg-eyfel focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:bg-gray-900 dark:focus:ring-blue-800">All categories</button>
@@ -148,7 +148,7 @@
       <!-- More products... -->
     </div>
   </div>
-</div>
+
 
 
 </template>

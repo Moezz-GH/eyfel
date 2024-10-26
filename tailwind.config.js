@@ -8,6 +8,8 @@ module.exports = {
   theme: {
     colors: {
       'eyfel':'#FFD203'
+      ,
+      'eyfel-light':'#FBEBA4'
     },
     extend: {
       backgroundImage: {
